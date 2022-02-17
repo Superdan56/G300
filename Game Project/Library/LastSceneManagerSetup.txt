@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Main scene.unity
+- path: Assets/Barrier Pack/BarrierPackScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
