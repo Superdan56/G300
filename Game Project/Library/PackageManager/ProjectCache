@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807036273805965
-    m_Hash: 230072583
+      ticks: 637807137142910926
+    m_Hash: 82437727
   m_LockFileStatus:
     m_FilePath: C:/Users/Owner/Documents/GitHub/G300/Game Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637807036273997076
-    m_Hash: 2770982778
+      ticks: 637807137142921032
+    m_Hash: 337171142
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
